@@ -161,6 +161,39 @@
       \field{pages}{78\bibrangedash 86}
       \range{pages}{9}
     \endentry
+    \entry{andrewNoteZeoliteArtefacts1951}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f66e732372e578a2631ab4e350203fe6}{%
+           family={Andrew},
+           familyi={A\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f66e732372e578a2631ab4e350203fe6}
+      \strng{fullhash}{f66e732372e578a2631ab4e350203fe6}
+      \strng{fullhashraw}{f66e732372e578a2631ab4e350203fe6}
+      \strng{bibnamehash}{f66e732372e578a2631ab4e350203fe6}
+      \strng{authorbibnamehash}{f66e732372e578a2631ab4e350203fe6}
+      \strng{authornamehash}{f66e732372e578a2631ab4e350203fe6}
+      \strng{authorfullhash}{f66e732372e578a2631ab4e350203fe6}
+      \strng{authorfullhashraw}{f66e732372e578a2631ab4e350203fe6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sudan Notes and Records}
+      \field{number}{2}
+      \field{title}{A {{Note}} on {{Zeolite Artefacts}}}
+      \field{volume}{32}
+      \field{year}{1951}
+      \field{dateera}{ce}
+      \field{pages}{308\bibrangedash 310}
+      \range{pages}{3}
+    \endentry
     \entry{andrewsAmuletsAncientEgypt1994}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=14098a303307db966eabba831d5d7e00}{%
@@ -5438,6 +5471,56 @@
       \field{pages}{227\bibrangedash 249}
       \range{pages}{23}
     \endentry
+    \entry{lohwasserKöniglichenFrauenIm2001}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e166687a3b0011279aca9ea5587c5086}{%
+           family={Lohwasser},
+           familyi={L\bibinitperiod},
+           given={Angelika},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Harrassowitz}%
+      }
+      \strng{namehash}{e166687a3b0011279aca9ea5587c5086}
+      \strng{fullhash}{e166687a3b0011279aca9ea5587c5086}
+      \strng{fullhashraw}{e166687a3b0011279aca9ea5587c5086}
+      \strng{bibnamehash}{e166687a3b0011279aca9ea5587c5086}
+      \strng{authorbibnamehash}{e166687a3b0011279aca9ea5587c5086}
+      \strng{authornamehash}{e166687a3b0011279aca9ea5587c5086}
+      \strng{authorfullhash}{e166687a3b0011279aca9ea5587c5086}
+      \strng{authorfullhashraw}{e166687a3b0011279aca9ea5587c5086}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Meroitica}
+      \field{title}{Die Königlichen {{Frauen}} Im Antiken {{Reich}} von {{Kusch}}. 25. {{Dynastie}} Bis Zur {{Zeit}} Der {{Nastasen}}}
+      \field{urlday}{4}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{volume}{19}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/victoria/Zotero/storage/2WAJ3P9M/html.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.degruyter.com/database/HBOL/entry/hb.21001430/html?lang=de
+      \endverb
+      \verb{url}
+      \verb https://www.degruyter.com/database/HBOL/entry/hb.21001430/html?lang=de
+      \endverb
+    \endentry
     \entry{lohwasserAspekteNapatanischenGesellschaft2012}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e166687a3b0011279aca9ea5587c5086}{%
@@ -5461,7 +5544,7 @@
       \strng{authornamehash}{e166687a3b0011279aca9ea5587c5086}
       \strng{authorfullhash}{e166687a3b0011279aca9ea5587c5086}
       \strng{authorfullhashraw}{e166687a3b0011279aca9ea5587c5086}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -5490,7 +5573,7 @@
       \strng{authornamehash}{e166687a3b0011279aca9ea5587c5086}
       \strng{authorfullhash}{e166687a3b0011279aca9ea5587c5086}
       \strng{authorfullhashraw}{e166687a3b0011279aca9ea5587c5086}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -5550,7 +5633,7 @@
       \strng{editornamehash}{0acd3f814ae50e981828185582501153}
       \strng{editorfullhash}{738e99e6043c4e2107218e50512fa79a}
       \strng{editorfullhashraw}{738e99e6043c4e2107218e50512fa79a}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -5601,7 +5684,7 @@
       \strng{editornamehash}{341f200efb22a0d455b23c5b7e606767}
       \strng{editorfullhash}{341f200efb22a0d455b23c5b7e606767}
       \strng{editorfullhashraw}{341f200efb22a0d455b23c5b7e606767}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -5656,7 +5739,7 @@
       \strng{editornamehash}{a3d14f34b9c0d5bb13612c771537ccdf}
       \strng{editorfullhash}{a3d14f34b9c0d5bb13612c771537ccdf}
       \strng{editorfullhashraw}{a3d14f34b9c0d5bb13612c771537ccdf}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -5688,7 +5771,7 @@
       \strng{authornamehash}{e166687a3b0011279aca9ea5587c5086}
       \strng{authorfullhash}{e166687a3b0011279aca9ea5587c5086}
       \strng{authorfullhashraw}{e166687a3b0011279aca9ea5587c5086}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -6742,6 +6825,41 @@
       \field{dateera}{ce}
       \field{pages}{115\bibrangedash 127}
       \range{pages}{13}
+    \endentry
+    \entry{petacchiLocalAspectsCult2014}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=391841dda3c16f7374f0e9b59f4c986f}{%
+           family={Petacchi},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{391841dda3c16f7374f0e9b59f4c986f}
+      \strng{fullhash}{391841dda3c16f7374f0e9b59f4c986f}
+      \strng{fullhashraw}{391841dda3c16f7374f0e9b59f4c986f}
+      \strng{bibnamehash}{391841dda3c16f7374f0e9b59f4c986f}
+      \strng{authorbibnamehash}{391841dda3c16f7374f0e9b59f4c986f}
+      \strng{authornamehash}{391841dda3c16f7374f0e9b59f4c986f}
+      \strng{authorfullhash}{391841dda3c16f7374f0e9b59f4c986f}
+      \strng{authorfullhashraw}{391841dda3c16f7374f0e9b59f4c986f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Der Antike Sudan. Mitteilungen der Sudanarchäologischen Gesellschaft zu Berlin (MittSAG)}
+      \field{title}{Some Local Aspects of the Cult of {{Bes}} in the {{Napatan Kingdom}}}
+      \field{volume}{25}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{205\bibrangedash 209}
+      \range{pages}{5}
+      \verb{doi}
+      \verb doi.org/10.48641/mittsag.2014.1.90156
+      \endverb
     \endentry
     \entry{pompeiNapatanCylindricalSheaths2019}{book}{}{}
       \name{author}{1}{}{%
@@ -10477,6 +10595,39 @@
       \field{pages}{78\bibrangedash 86}
       \range{pages}{9}
     \endentry
+    \entry{andrewNoteZeoliteArtefacts1951}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f66e732372e578a2631ab4e350203fe6}{%
+           family={Andrew},
+           familyi={A\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f66e732372e578a2631ab4e350203fe6}
+      \strng{fullhash}{f66e732372e578a2631ab4e350203fe6}
+      \strng{fullhashraw}{f66e732372e578a2631ab4e350203fe6}
+      \strng{bibnamehash}{f66e732372e578a2631ab4e350203fe6}
+      \strng{authorbibnamehash}{f66e732372e578a2631ab4e350203fe6}
+      \strng{authornamehash}{f66e732372e578a2631ab4e350203fe6}
+      \strng{authorfullhash}{f66e732372e578a2631ab4e350203fe6}
+      \strng{authorfullhashraw}{f66e732372e578a2631ab4e350203fe6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sudan Notes and Records}
+      \field{number}{2}
+      \field{title}{A {{Note}} on {{Zeolite Artefacts}}}
+      \field{volume}{32}
+      \field{year}{1951}
+      \field{dateera}{ce}
+      \field{pages}{308\bibrangedash 310}
+      \range{pages}{3}
+    \endentry
     \entry{andrewsAmuletsAncientEgypt1994}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=14098a303307db966eabba831d5d7e00}{%
@@ -15754,6 +15905,56 @@
       \field{pages}{227\bibrangedash 249}
       \range{pages}{23}
     \endentry
+    \entry{lohwasserKöniglichenFrauenIm2001}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e166687a3b0011279aca9ea5587c5086}{%
+           family={Lohwasser},
+           familyi={L\bibinitperiod},
+           given={Angelika},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Harrassowitz}%
+      }
+      \strng{namehash}{e166687a3b0011279aca9ea5587c5086}
+      \strng{fullhash}{e166687a3b0011279aca9ea5587c5086}
+      \strng{fullhashraw}{e166687a3b0011279aca9ea5587c5086}
+      \strng{bibnamehash}{e166687a3b0011279aca9ea5587c5086}
+      \strng{authorbibnamehash}{e166687a3b0011279aca9ea5587c5086}
+      \strng{authornamehash}{e166687a3b0011279aca9ea5587c5086}
+      \strng{authorfullhash}{e166687a3b0011279aca9ea5587c5086}
+      \strng{authorfullhashraw}{e166687a3b0011279aca9ea5587c5086}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Meroitica}
+      \field{title}{Die Königlichen {{Frauen}} Im Antiken {{Reich}} von {{Kusch}}. 25. {{Dynastie}} Bis Zur {{Zeit}} Der {{Nastasen}}}
+      \field{urlday}{4}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{volume}{19}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/victoria/Zotero/storage/2WAJ3P9M/html.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.degruyter.com/database/HBOL/entry/hb.21001430/html?lang=de
+      \endverb
+      \verb{url}
+      \verb https://www.degruyter.com/database/HBOL/entry/hb.21001430/html?lang=de
+      \endverb
+    \endentry
     \entry{lohwasserAspekteNapatanischenGesellschaft2012}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e166687a3b0011279aca9ea5587c5086}{%
@@ -15777,7 +15978,7 @@
       \strng{authornamehash}{e166687a3b0011279aca9ea5587c5086}
       \strng{authorfullhash}{e166687a3b0011279aca9ea5587c5086}
       \strng{authorfullhashraw}{e166687a3b0011279aca9ea5587c5086}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -15806,7 +16007,7 @@
       \strng{authornamehash}{e166687a3b0011279aca9ea5587c5086}
       \strng{authorfullhash}{e166687a3b0011279aca9ea5587c5086}
       \strng{authorfullhashraw}{e166687a3b0011279aca9ea5587c5086}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -15866,7 +16067,7 @@
       \strng{editornamehash}{0acd3f814ae50e981828185582501153}
       \strng{editorfullhash}{738e99e6043c4e2107218e50512fa79a}
       \strng{editorfullhashraw}{738e99e6043c4e2107218e50512fa79a}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -15917,7 +16118,7 @@
       \strng{editornamehash}{341f200efb22a0d455b23c5b7e606767}
       \strng{editorfullhash}{341f200efb22a0d455b23c5b7e606767}
       \strng{editorfullhashraw}{341f200efb22a0d455b23c5b7e606767}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -15972,7 +16173,7 @@
       \strng{editornamehash}{a3d14f34b9c0d5bb13612c771537ccdf}
       \strng{editorfullhash}{a3d14f34b9c0d5bb13612c771537ccdf}
       \strng{editorfullhashraw}{a3d14f34b9c0d5bb13612c771537ccdf}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -16004,7 +16205,7 @@
       \strng{authornamehash}{e166687a3b0011279aca9ea5587c5086}
       \strng{authorfullhash}{e166687a3b0011279aca9ea5587c5086}
       \strng{authorfullhashraw}{e166687a3b0011279aca9ea5587c5086}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -17058,6 +17259,41 @@
       \field{dateera}{ce}
       \field{pages}{115\bibrangedash 127}
       \range{pages}{13}
+    \endentry
+    \entry{petacchiLocalAspectsCult2014}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=391841dda3c16f7374f0e9b59f4c986f}{%
+           family={Petacchi},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{391841dda3c16f7374f0e9b59f4c986f}
+      \strng{fullhash}{391841dda3c16f7374f0e9b59f4c986f}
+      \strng{fullhashraw}{391841dda3c16f7374f0e9b59f4c986f}
+      \strng{bibnamehash}{391841dda3c16f7374f0e9b59f4c986f}
+      \strng{authorbibnamehash}{391841dda3c16f7374f0e9b59f4c986f}
+      \strng{authornamehash}{391841dda3c16f7374f0e9b59f4c986f}
+      \strng{authorfullhash}{391841dda3c16f7374f0e9b59f4c986f}
+      \strng{authorfullhashraw}{391841dda3c16f7374f0e9b59f4c986f}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Der Antike Sudan. Mitteilungen der Sudanarchäologischen Gesellschaft zu Berlin (MittSAG)}
+      \field{title}{Some Local Aspects of the Cult of {{Bes}} in the {{Napatan Kingdom}}}
+      \field{volume}{25}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{205\bibrangedash 209}
+      \range{pages}{5}
+      \verb{doi}
+      \verb doi.org/10.48641/mittsag.2014.1.90156
+      \endverb
     \endentry
     \entry{pompeiNapatanCylindricalSheaths2019}{book}{}{}
       \name{author}{1}{}{%
