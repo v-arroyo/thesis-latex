@@ -2128,6 +2128,43 @@
       \field{year}{1955}
       \field{dateera}{ce}
     \endentry
+    \entry{dunhamWestSouthCemeteries1963}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af479780a2c851840aa40edbea35b4bc}{%
+           family={Dunham},
+           familyi={D\bibinitperiod},
+           given={Dows},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{af479780a2c851840aa40edbea35b4bc}
+      \strng{fullhash}{af479780a2c851840aa40edbea35b4bc}
+      \strng{fullhashraw}{af479780a2c851840aa40edbea35b4bc}
+      \strng{bibnamehash}{af479780a2c851840aa40edbea35b4bc}
+      \strng{authorbibnamehash}{af479780a2c851840aa40edbea35b4bc}
+      \strng{authornamehash}{af479780a2c851840aa40edbea35b4bc}
+      \strng{authorfullhash}{af479780a2c851840aa40edbea35b4bc}
+      \strng{authorfullhashraw}{af479780a2c851840aa40edbea35b4bc}
+      \field{extraname}{3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{Vol. V}
+      \field{series}{The {{Royal Cemeteries}} of {{Kush}}}
+      \field{title}{The {{West}} and {{South Cemeteries}} at {{Meroe}}}
+      \field{year}{1963}
+      \field{dateera}{ce}
+    \endentry
     \entry{edwardsNubianArchaeologySudan2004}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b3834eca5616088af197a6d8dfcefd1f}{%
@@ -3139,6 +3176,56 @@
       \field{dateera}{ce}
       \field{pages}{124\bibrangedash 142}
       \range{pages}{19}
+    \endentry
+    \entry{geusCimetièreXXVèmeDynastie1975}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b8a5d3bab1be6f2c0b7793fe74f8267b}{%
+           family={Geus},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=af8473113d94ac78708cb6e710a0c050}{%
+           family={Vercoutter},
+           familyi={V\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Direction Générale des Relations Culturelles, Scientifiques et Techniques}%
+      }
+      \strng{namehash}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{fullhash}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{fullhashraw}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{bibnamehash}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{authorbibnamehash}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{authornamehash}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{authorfullhash}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{authorfullhashraw}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{editorbibnamehash}{af8473113d94ac78708cb6e710a0c050}
+      \strng{editornamehash}{af8473113d94ac78708cb6e710a0c050}
+      \strng{editorfullhash}{af8473113d94ac78708cb6e710a0c050}
+      \strng{editorfullhashraw}{af8473113d94ac78708cb6e710a0c050}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Mirgissa {{II}}}
+      \field{number}{1}
+      \field{series}{Les Nécropoles de {{Mirgissa}}}
+      \field{title}{Le Cimetière de La {{XXVème}} Dynastie ({{MF}}.{{NE}})}
+      \field{year}{1975}
+      \field{dateera}{ce}
+      \field{pages}{483\bibrangedash 500}
+      \range{pages}{18}
     \endentry
     \entry{grathwolAdulisTransshipmentBaboons2023}{article}{}{}
       \name{author}{12}{}{%
@@ -4479,6 +4566,42 @@
       \field{pages}{449\bibrangedash 474}
       \range{pages}{26}
     \endentry
+    \entry{kilroePilgrimFlasksChronological2019}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b983fd66f6bb0b423bf8b1748b7cc9db}{%
+           family={Kilroe},
+           familyi={K\bibinitperiod},
+           given={Loretta},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Oxford}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \strng{namehash}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \strng{fullhash}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \strng{fullhashraw}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \strng{bibnamehash}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \strng{authorbibnamehash}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \strng{authornamehash}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \strng{authorfullhash}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \strng{authorfullhashraw}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pilgrim Flasks: {{Chronological}} and Cultural Transformations in {{Nubia}} from the {{New Kingdom}} to the {{Napatan Period}}}
+      \field{type}{phdthesis}
+      \field{year}{2019}
+      \field{dateera}{ce}
+    \endentry
     \entry{kilroeGiantsSandsGiraffe2023}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b983fd66f6bb0b423bf8b1748b7cc9db}{%
@@ -4499,6 +4622,7 @@
       \strng{authornamehash}{b983fd66f6bb0b423bf8b1748b7cc9db}
       \strng{authorfullhash}{b983fd66f6bb0b423bf8b1748b7cc9db}
       \strng{authorfullhashraw}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \field{extraname}{2}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -7537,13 +7661,50 @@
       \strng{authornamehash}{57e9515a9a6cde16bee9b4dec05e3629}
       \strng{authorfullhash}{57e9515a9a6cde16bee9b4dec05e3629}
       \strng{authorfullhashraw}{57e9515a9a6cde16bee9b4dec05e3629}
+      \field{extraname}{1}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The {{Scandinavian Joint Expedition}} to {{Sudanese Nubia}}: {{Middle Nubian Sites}} 4:1}
+      \field{year}{1989}
+      \field{dateera}{ce}
+    \endentry
+    \entry{säve-söderberghScandinavianJointExpedition1989a}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57e9515a9a6cde16bee9b4dec05e3629}{%
+           family={Säve-Söderbergh},
+           familyi={S\bibinithyphendelim S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Pastille}%
+      }
+      \list{publisher}{1}{%
+        {Paul Astrom Editions}%
+      }
+      \strng{namehash}{57e9515a9a6cde16bee9b4dec05e3629}
+      \strng{fullhash}{57e9515a9a6cde16bee9b4dec05e3629}
+      \strng{fullhashraw}{57e9515a9a6cde16bee9b4dec05e3629}
+      \strng{bibnamehash}{57e9515a9a6cde16bee9b4dec05e3629}
+      \strng{authorbibnamehash}{57e9515a9a6cde16bee9b4dec05e3629}
+      \strng{authornamehash}{57e9515a9a6cde16bee9b4dec05e3629}
+      \strng{authorfullhash}{57e9515a9a6cde16bee9b4dec05e3629}
+      \strng{authorfullhashraw}{57e9515a9a6cde16bee9b4dec05e3629}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Scandinavian Joint Expedition}} to {{Sudanese Nubia}}: {{Middle Nubian Sites}} 4:2}
       \field{year}{1989}
       \field{dateera}{ce}
     \endentry
@@ -9286,6 +9447,50 @@
       \field{year}{2009}
       \field{dateera}{ce}
     \endentry
+    \entry{tuckerDefiningCityNapatan2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=93a4f8d2ef3232a54ae6d4dba07a3940}{%
+           family={Tucker},
+           familyi={T\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04106d198bc1fd6b9e414e7e62a6a06a}{%
+           family={Vincentelli},
+           familyi={V\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6badf16b44d985f54746dfe1d515e194}{%
+           family={Emberling},
+           familyi={E\bibinitperiod},
+           given={Geoff},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9bf3d80ba8f7efabe779f9b9bae8118b}
+      \strng{fullhash}{1075994447b96b4bbf8e4d6aac833ac4}
+      \strng{fullhashraw}{1075994447b96b4bbf8e4d6aac833ac4}
+      \strng{bibnamehash}{1075994447b96b4bbf8e4d6aac833ac4}
+      \strng{authorbibnamehash}{1075994447b96b4bbf8e4d6aac833ac4}
+      \strng{authornamehash}{9bf3d80ba8f7efabe779f9b9bae8118b}
+      \strng{authorfullhash}{1075994447b96b4bbf8e4d6aac833ac4}
+      \strng{authorfullhashraw}{1075994447b96b4bbf8e4d6aac833ac4}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sudan \& Nubia}
+      \field{title}{Defining a {{City}} in {{Napatan Kush}}: {{Geophysical Prospection}} at {{Sanam}}}
+      \field{volume}{23}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{85\bibrangedash 94}
+      \range{pages}{10}
+    \endentry
     \entry{valbelleAmonRêKerma2003}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=f0e22ddc62ba691fafdb9fc61456399f}{%
@@ -9454,6 +9659,42 @@
       \field{dateera}{ce}
       \field{pages}{73\bibrangedash 84}
       \range{pages}{12}
+    \endentry
+    \entry{vilaNécropoleMissiminiaSépultures1980}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6ac4e9eb072c40652dc515e86d031e4}{%
+           family={Vila},
+           familyi={V\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Center National de la Recherce Scientifique}%
+      }
+      \strng{namehash}{b6ac4e9eb072c40652dc515e86d031e4}
+      \strng{fullhash}{b6ac4e9eb072c40652dc515e86d031e4}
+      \strng{fullhashraw}{b6ac4e9eb072c40652dc515e86d031e4}
+      \strng{bibnamehash}{b6ac4e9eb072c40652dc515e86d031e4}
+      \strng{authorbibnamehash}{b6ac4e9eb072c40652dc515e86d031e4}
+      \strng{authornamehash}{b6ac4e9eb072c40652dc515e86d031e4}
+      \strng{authorfullhash}{b6ac4e9eb072c40652dc515e86d031e4}
+      \strng{authorfullhashraw}{b6ac4e9eb072c40652dc515e86d031e4}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{12}
+      \field{series}{La Prospection Archéologique de La {{Valée}} Du {{Nil}}, Au Sud de La Cataracte de {{Dal}} ({{Nubie Soudanaise}})}
+      \field{title}{La Nécropole de {{Missiminia}}, {{I}}. {{Les}} Sépultures Napatéennes}
+      \field{year}{1980}
+      \field{dateera}{ce}
     \endentry
     \entry{vincentelliHillatElArabJoint2006}{book}{}{}
       \name{author}{1}{}{%
@@ -12203,6 +12444,43 @@
       \field{year}{1955}
       \field{dateera}{ce}
     \endentry
+    \entry{dunhamWestSouthCemeteries1963}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af479780a2c851840aa40edbea35b4bc}{%
+           family={Dunham},
+           familyi={D\bibinitperiod},
+           given={Dows},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{af479780a2c851840aa40edbea35b4bc}
+      \strng{fullhash}{af479780a2c851840aa40edbea35b4bc}
+      \strng{fullhashraw}{af479780a2c851840aa40edbea35b4bc}
+      \strng{bibnamehash}{af479780a2c851840aa40edbea35b4bc}
+      \strng{authorbibnamehash}{af479780a2c851840aa40edbea35b4bc}
+      \strng{authornamehash}{af479780a2c851840aa40edbea35b4bc}
+      \strng{authorfullhash}{af479780a2c851840aa40edbea35b4bc}
+      \strng{authorfullhashraw}{af479780a2c851840aa40edbea35b4bc}
+      \field{extraname}{3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{Vol. V}
+      \field{series}{The {{Royal Cemeteries}} of {{Kush}}}
+      \field{title}{The {{West}} and {{South Cemeteries}} at {{Meroe}}}
+      \field{year}{1963}
+      \field{dateera}{ce}
+    \endentry
     \entry{edwardsNubianArchaeologySudan2004}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b3834eca5616088af197a6d8dfcefd1f}{%
@@ -13214,6 +13492,56 @@
       \field{dateera}{ce}
       \field{pages}{124\bibrangedash 142}
       \range{pages}{19}
+    \endentry
+    \entry{geusCimetièreXXVèmeDynastie1975}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b8a5d3bab1be6f2c0b7793fe74f8267b}{%
+           family={Geus},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=af8473113d94ac78708cb6e710a0c050}{%
+           family={Vercoutter},
+           familyi={V\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Direction Générale des Relations Culturelles, Scientifiques et Techniques}%
+      }
+      \strng{namehash}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{fullhash}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{fullhashraw}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{bibnamehash}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{authorbibnamehash}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{authornamehash}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{authorfullhash}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{authorfullhashraw}{b8a5d3bab1be6f2c0b7793fe74f8267b}
+      \strng{editorbibnamehash}{af8473113d94ac78708cb6e710a0c050}
+      \strng{editornamehash}{af8473113d94ac78708cb6e710a0c050}
+      \strng{editorfullhash}{af8473113d94ac78708cb6e710a0c050}
+      \strng{editorfullhashraw}{af8473113d94ac78708cb6e710a0c050}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Mirgissa {{II}}}
+      \field{number}{1}
+      \field{series}{Les Nécropoles de {{Mirgissa}}}
+      \field{title}{Le Cimetière de La {{XXVème}} Dynastie ({{MF}}.{{NE}})}
+      \field{year}{1975}
+      \field{dateera}{ce}
+      \field{pages}{483\bibrangedash 500}
+      \range{pages}{18}
     \endentry
     \entry{grathwolAdulisTransshipmentBaboons2023}{article}{}{}
       \name{author}{12}{}{%
@@ -14554,6 +14882,42 @@
       \field{pages}{449\bibrangedash 474}
       \range{pages}{26}
     \endentry
+    \entry{kilroePilgrimFlasksChronological2019}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b983fd66f6bb0b423bf8b1748b7cc9db}{%
+           family={Kilroe},
+           familyi={K\bibinitperiod},
+           given={Loretta},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Oxford}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \strng{namehash}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \strng{fullhash}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \strng{fullhashraw}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \strng{bibnamehash}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \strng{authorbibnamehash}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \strng{authornamehash}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \strng{authorfullhash}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \strng{authorfullhashraw}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pilgrim Flasks: {{Chronological}} and Cultural Transformations in {{Nubia}} from the {{New Kingdom}} to the {{Napatan Period}}}
+      \field{type}{phdthesis}
+      \field{year}{2019}
+      \field{dateera}{ce}
+    \endentry
     \entry{kilroeGiantsSandsGiraffe2023}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b983fd66f6bb0b423bf8b1748b7cc9db}{%
@@ -14574,6 +14938,7 @@
       \strng{authornamehash}{b983fd66f6bb0b423bf8b1748b7cc9db}
       \strng{authorfullhash}{b983fd66f6bb0b423bf8b1748b7cc9db}
       \strng{authorfullhashraw}{b983fd66f6bb0b423bf8b1748b7cc9db}
+      \field{extraname}{2}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -17612,13 +17977,50 @@
       \strng{authornamehash}{57e9515a9a6cde16bee9b4dec05e3629}
       \strng{authorfullhash}{57e9515a9a6cde16bee9b4dec05e3629}
       \strng{authorfullhashraw}{57e9515a9a6cde16bee9b4dec05e3629}
+      \field{extraname}{1}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The {{Scandinavian Joint Expedition}} to {{Sudanese Nubia}}: {{Middle Nubian Sites}} 4:1}
+      \field{year}{1989}
+      \field{dateera}{ce}
+    \endentry
+    \entry{säve-söderberghScandinavianJointExpedition1989a}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57e9515a9a6cde16bee9b4dec05e3629}{%
+           family={Säve-Söderbergh},
+           familyi={S\bibinithyphendelim S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Pastille}%
+      }
+      \list{publisher}{1}{%
+        {Paul Astrom Editions}%
+      }
+      \strng{namehash}{57e9515a9a6cde16bee9b4dec05e3629}
+      \strng{fullhash}{57e9515a9a6cde16bee9b4dec05e3629}
+      \strng{fullhashraw}{57e9515a9a6cde16bee9b4dec05e3629}
+      \strng{bibnamehash}{57e9515a9a6cde16bee9b4dec05e3629}
+      \strng{authorbibnamehash}{57e9515a9a6cde16bee9b4dec05e3629}
+      \strng{authornamehash}{57e9515a9a6cde16bee9b4dec05e3629}
+      \strng{authorfullhash}{57e9515a9a6cde16bee9b4dec05e3629}
+      \strng{authorfullhashraw}{57e9515a9a6cde16bee9b4dec05e3629}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Scandinavian Joint Expedition}} to {{Sudanese Nubia}}: {{Middle Nubian Sites}} 4:2}
       \field{year}{1989}
       \field{dateera}{ce}
     \endentry
@@ -19361,6 +19763,50 @@
       \field{year}{2009}
       \field{dateera}{ce}
     \endentry
+    \entry{tuckerDefiningCityNapatan2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=93a4f8d2ef3232a54ae6d4dba07a3940}{%
+           family={Tucker},
+           familyi={T\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04106d198bc1fd6b9e414e7e62a6a06a}{%
+           family={Vincentelli},
+           familyi={V\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6badf16b44d985f54746dfe1d515e194}{%
+           family={Emberling},
+           familyi={E\bibinitperiod},
+           given={Geoff},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9bf3d80ba8f7efabe779f9b9bae8118b}
+      \strng{fullhash}{1075994447b96b4bbf8e4d6aac833ac4}
+      \strng{fullhashraw}{1075994447b96b4bbf8e4d6aac833ac4}
+      \strng{bibnamehash}{1075994447b96b4bbf8e4d6aac833ac4}
+      \strng{authorbibnamehash}{1075994447b96b4bbf8e4d6aac833ac4}
+      \strng{authornamehash}{9bf3d80ba8f7efabe779f9b9bae8118b}
+      \strng{authorfullhash}{1075994447b96b4bbf8e4d6aac833ac4}
+      \strng{authorfullhashraw}{1075994447b96b4bbf8e4d6aac833ac4}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sudan \& Nubia}
+      \field{title}{Defining a {{City}} in {{Napatan Kush}}: {{Geophysical Prospection}} at {{Sanam}}}
+      \field{volume}{23}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{85\bibrangedash 94}
+      \range{pages}{10}
+    \endentry
     \entry{valbelleAmonRêKerma2003}{inbook}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=f0e22ddc62ba691fafdb9fc61456399f}{%
@@ -19529,6 +19975,42 @@
       \field{dateera}{ce}
       \field{pages}{73\bibrangedash 84}
       \range{pages}{12}
+    \endentry
+    \entry{vilaNécropoleMissiminiaSépultures1980}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6ac4e9eb072c40652dc515e86d031e4}{%
+           family={Vila},
+           familyi={V\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Center National de la Recherce Scientifique}%
+      }
+      \strng{namehash}{b6ac4e9eb072c40652dc515e86d031e4}
+      \strng{fullhash}{b6ac4e9eb072c40652dc515e86d031e4}
+      \strng{fullhashraw}{b6ac4e9eb072c40652dc515e86d031e4}
+      \strng{bibnamehash}{b6ac4e9eb072c40652dc515e86d031e4}
+      \strng{authorbibnamehash}{b6ac4e9eb072c40652dc515e86d031e4}
+      \strng{authornamehash}{b6ac4e9eb072c40652dc515e86d031e4}
+      \strng{authorfullhash}{b6ac4e9eb072c40652dc515e86d031e4}
+      \strng{authorfullhashraw}{b6ac4e9eb072c40652dc515e86d031e4}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{12}
+      \field{series}{La Prospection Archéologique de La {{Valée}} Du {{Nil}}, Au Sud de La Cataracte de {{Dal}} ({{Nubie Soudanaise}})}
+      \field{title}{La Nécropole de {{Missiminia}}, {{I}}. {{Les}} Sépultures Napatéennes}
+      \field{year}{1980}
+      \field{dateera}{ce}
     \endentry
     \entry{vincentelliHillatElArabJoint2006}{book}{}{}
       \name{author}{1}{}{%

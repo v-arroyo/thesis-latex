@@ -3461,18 +3461,32 @@
     <bcf:citekey order="363" intorder="1">wyattGraspingGriffinIdentifying2010</bcf:citekey>
     <bcf:citekey order="364" intorder="1">harrellArchaeologyGeologyAncient2024</bcf:citekey>
     <bcf:citekey order="365" intorder="1">andrewsAmuletsAncientEgypt1994</bcf:citekey>
-    <bcf:citekey order="366" intorder="1">griffithOxfordExcavationsNubia1923</bcf:citekey>
-    <bcf:citekey order="367" intorder="1">vergaConsiderazioniMargineSignificato1981</bcf:citekey>
-    <bcf:citekey order="367" intorder="2">herrmannÄgyptischeAmuletteAus1994</bcf:citekey>
-    <bcf:citekey order="367" intorder="3">herrmannÄgyptischeAmuletteAus2002</bcf:citekey>
-    <bcf:citekey order="367" intorder="4">herrmannÄgyptischeAmuletteAus2016</bcf:citekey>
-    <bcf:citekey order="368" intorder="1">astonBurialAssemblagesDynasty2009</bcf:citekey>
-    <bcf:citekey order="369" intorder="1">lópez-grandeAmuletosIconografíaEgipcia2014</bcf:citekey>
-    <bcf:citekey order="370" intorder="1">arroyoPapelDosAmuletos2020</bcf:citekey>
-    <bcf:citekey order="370" intorder="2">arroyoUsoAmuletosComo2021</bcf:citekey>
-    <bcf:citekey order="371" intorder="1">qahériObjectsÉgyptiensÉgyptianisants2020</bcf:citekey>
-    <bcf:citekey order="372" intorder="1">muñozpérezEgyptianAmuletsWestern2023</bcf:citekey>
-    <bcf:citekey order="373" intorder="1">furlanAmuletExchangeNile2024</bcf:citekey>
+    <bcf:citekey order="366" intorder="1">tuckerDefiningCityNapatan2019</bcf:citekey>
+    <bcf:citekey order="367" intorder="1">vilaNécropoleMissiminiaSépultures1980</bcf:citekey>
+    <bcf:citekey order="368" intorder="1">griffithOxfordExcavationsNubia1922</bcf:citekey>
+    <bcf:citekey order="368" intorder="2">vincentelliLongDistanceTrade2018</bcf:citekey>
+    <bcf:citekey order="369" intorder="1">säve-söderberghScandinavianJointExpedition1989a</bcf:citekey>
+    <bcf:citekey order="370" intorder="1">törökTwoWorldsFrontier2009</bcf:citekey>
+    <bcf:citekey order="371" intorder="1">lohwasserNapatanNecropoleisBurial2019</bcf:citekey>
+    <bcf:citekey order="372" intorder="1">kilroePilgrimFlasksChronological2019</bcf:citekey>
+    <bcf:citekey order="373" intorder="1">binderCemeteryAmaraWest2011</bcf:citekey>
+    <bcf:citekey order="374" intorder="1">williamsExcavationsAbuSimbel1990</bcf:citekey>
+    <bcf:citekey order="375" intorder="1">lohwasserAspekteNapatanischenGesellschaft2012</bcf:citekey>
+    <bcf:citekey order="376" intorder="1">dunhamWestSouthCemeteries1963</bcf:citekey>
+    <bcf:citekey order="376" intorder="2">geusCimetièreXXVèmeDynastie1975</bcf:citekey>
+    <bcf:citekey order="377" intorder="1">lohwasserAspekteNapatanischenGesellschaft2012</bcf:citekey>
+    <bcf:citekey order="378" intorder="1">griffithOxfordExcavationsNubia1923</bcf:citekey>
+    <bcf:citekey order="379" intorder="1">vergaConsiderazioniMargineSignificato1981</bcf:citekey>
+    <bcf:citekey order="379" intorder="2">herrmannÄgyptischeAmuletteAus1994</bcf:citekey>
+    <bcf:citekey order="379" intorder="3">herrmannÄgyptischeAmuletteAus2002</bcf:citekey>
+    <bcf:citekey order="379" intorder="4">herrmannÄgyptischeAmuletteAus2016</bcf:citekey>
+    <bcf:citekey order="380" intorder="1">astonBurialAssemblagesDynasty2009</bcf:citekey>
+    <bcf:citekey order="381" intorder="1">lópez-grandeAmuletosIconografíaEgipcia2014</bcf:citekey>
+    <bcf:citekey order="382" intorder="1">arroyoPapelDosAmuletos2020</bcf:citekey>
+    <bcf:citekey order="382" intorder="2">arroyoUsoAmuletosComo2021</bcf:citekey>
+    <bcf:citekey order="383" intorder="1">qahériObjectsÉgyptiensÉgyptianisants2020</bcf:citekey>
+    <bcf:citekey order="384" intorder="1">muñozpérezEgyptianAmuletsWestern2023</bcf:citekey>
+    <bcf:citekey order="385" intorder="1">furlanAmuletExchangeNile2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
