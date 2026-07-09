@@ -3,12 +3,14 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 
+% --- FOOTNOTE PACKAGES ---
 \usepackage{footmisc}
 \usepackage{fnpos}
 \makeFNbottom
 \renewcommand{\footnotelayout}{\hspace{0.2em}}
 \counterwithout{footnote}{chapter}
 
+% --- FIGURE PACKAGES ---
 \usepackage{graphicx}
 \graphicspath{ {./images/chapter4/}{./images/chapter5/}{./images/chapter6/} }
 \usepackage{float}
@@ -25,36 +27,38 @@
 \usepackage{calc}
 \usepackage{adjustbox}
 
+% --- CROSS REFERENCE PACKAGES ---
 \usepackage[
 	hidelinks,
 	linktoc=all
 ]{hyperref}
 \usepackage{cleveref}
+\usepackage{hyperref}
 
+% --- TABLE PACKAGES ---
 \usepackage{booktabs}
 \usepackage{longtable}
 \usepackage{xltabular}
+\usepackage{multirow}
 \usepackage{array}
 \renewcommand{\arraystretch}{1.5}
 
+% --- COLOR PACKAGES ---
 \usepackage{xcolor}
 \definecolor{mygray}{gray}{0.7}
 \usepackage{colortbl}
 \arrayrulecolor{mygray}
 
-\hyphenpenalty=10000
-\exhyphenpenalty=10000
-
-\tolerance=1000
-\emergencystretch=3em
-
+% --- BIBLIOGRAPHY PACKAGES ---
 \usepackage{csquotes}
 \usepackage[style=apa, backend=biber]{biblatex}
 \addbibresource{references.bib}
 
+% --- FONT PACKAGES ---
 \usepackage{helvet}
 \renewcommand{\familydefault}{\sfdefault}
 
+% --- LAYOUT PACKAGES ---
 \usepackage{titlesec}
 \titleformat{\chapter}
 	{\normalfont\sffamily\fontsize{14pt}{18pt}\bfseries}
@@ -70,6 +74,12 @@
 	{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
 \titlespacing*{\paragraph}
 	{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+	
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+
+\tolerance=1000
+\emergencystretch=3em
   
 \usepackage{setspace}
 \onehalfspacing
