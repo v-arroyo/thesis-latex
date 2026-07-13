@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2026.7.6)  13 JUL 2026 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2026.7.6)  13 JUL 2026 17:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2358,81 +2358,81 @@ File: ./images/chapter4//MN-20.369.jpg Graphic file (type jpg)
 Package pdftex.def Info: ./images/chapter4//MN-20.369.jpg  used on input line 1
 324.
 (pdftex.def)             Requested size: 83.64578pt x 113.80379pt.
- [79 <./images/chapter4//MN-24.1017.jpg> <./images/chapter4//MN-20.351.jpg> <./
-images/chapter4//MN-20.1061.jpg> <./images/chapter4//MN-20.268.jpg> <./images/c
-hapter4//MN-20.269.jpg> <./images/chapter4//MN-20.347.jpg> <./images/chapter4//
-MN-20.348.jpg>]
-<./images/chapter4//MN-royal-materials.png, id=2605, 1656.1875pt x 542.025pt>
+<./images/chapter4//MN-royal-materials.png, id=2597, 1656.1875pt x 542.025pt>
 File: ./images/chapter4//MN-royal-materials.png Graphic file (type png)
 <use ./images/chapter4//MN-royal-materials.png>
 Package pdftex.def Info: ./images/chapter4//MN-royal-materials.png  used on inp
 ut line 1336.
 (pdftex.def)             Requested size: 483.69687pt x 158.29974pt.
-<./images/chapter4//LN-royal-tombs.png, id=2607, 1656.1875pt x 662.475pt>
+ [79 <./images/chapter4//MN-24.1017.jpg> <./images/chapter4//MN-20.351.jpg> <./
+images/chapter4//MN-20.1061.jpg> <./images/chapter4//MN-20.268.jpg> <./images/c
+hapter4//MN-20.269.jpg> <./images/chapter4//MN-20.347.jpg> <./images/chapter4//
+MN-20.348.jpg> <./images/chapter4//MN-20.270.jpg> <./images/chapter4//MN-20.346
+.jpg> <./images/chapter4//MN-20.352.jpg> <./images/chapter4//MN-20.366.jpg> <./
+images/chapter4//MN-20.369.jpg>]
+<./images/chapter4//LN-royal-tombs.png, id=2608, 1656.1875pt x 662.475pt>
 File: ./images/chapter4//LN-royal-tombs.png Graphic file (type png)
 <use ./images/chapter4//LN-royal-tombs.png>
 Package pdftex.def Info: ./images/chapter4//LN-royal-tombs.png  used on input l
-ine 1353.
+ine 1355.
 (pdftex.def)             Requested size: 483.69687pt x 193.47748pt.
- [80 <./images/chapter4//MN-20.270.jpg> <./images/chapter4//MN-20.346.jpg> <./i
-mages/chapter4//MN-20.352.jpg> <./images/chapter4//MN-20.366.jpg> <./images/cha
-pter4//MN-20.369.jpg> <./images/chapter4//MN-royal-materials.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+ [80 <./images/chapter4//MN-royal-materials.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1408
 []|\T1/phv/b/n/10 Type of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1408
 []|\T1/phv/b/n/10 N. of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1408
 []|\T1/phv/b/n/10 Bed holes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1408
 \T1/phv/b/n/10 and/or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1408
 \T1/phv/b/n/10 cof-fin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1408
 []|\T1/phv/b/n/10 Type of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1408
 []|\T1/phv/b/n/10 N. of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1408
 []|\T1/phv/b/n/10 Bed holes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1408
 \T1/phv/b/n/10 and/or
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1408
 \T1/phv/b/n/10 cof-fin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1408
 []|\T1/phv/m/n/10 Ku. 1
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1404--1404
+Underfull \hbox (badness 10000) in paragraph at lines 1408--1408
 []|\T1/phv/m/n/10 not
  []
 
@@ -2442,62 +2442,62 @@ pt>
 File: ./images/chapter4//LN-royal-objs-el-kurru.png Graphic file (type png)
 <use ./images/chapter4//LN-royal-objs-el-kurru.png>
 Package pdftex.def Info: ./images/chapter4//LN-royal-objs-el-kurru.png  used on
- input line 1416.
+ input line 1417.
 (pdftex.def)             Requested size: 193.47517pt x 270.86526pt.
 <./images/chapter4//LN-royal-objs-nuri.png, id=2623, 1053.9375pt x 1053.9375pt>
 
 File: ./images/chapter4//LN-royal-objs-nuri.png Graphic file (type png)
 <use ./images/chapter4//LN-royal-objs-nuri.png>
 Package pdftex.def Info: ./images/chapter4//LN-royal-objs-nuri.png  used on inp
-ut line 1418.
+ut line 1419.
 (pdftex.def)             Requested size: 284.53476pt x 284.53476pt.
  [82]
-Underfull \hbox (badness 5147) in paragraph at lines 1458--1458
+Underfull \hbox (badness 5147) in paragraph at lines 1459--1459
 []|\T1/phv/b/n/10 Total num-ber
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 1458--1458
+Underfull \hbox (badness 5147) in paragraph at lines 1459--1459
 []|\T1/phv/b/n/10 Total num-ber
  []
 
 
-Underfull \hbox (badness 6893) in paragraph at lines 1458--1458
+Underfull \hbox (badness 6893) in paragraph at lines 1459--1459
 []|\T1/phv/b/n/10 N. of tombs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1458--1458
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 []|\T1/phv/b/n/10 % of tombs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1458--1458
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \T1/phv/b/n/10 amulets per
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 1458--1458
+Underfull \hbox (badness 5147) in paragraph at lines 1459--1459
 []|\T1/phv/b/n/10 Total num-ber
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 1458--1458
+Underfull \hbox (badness 5147) in paragraph at lines 1459--1459
 []|\T1/phv/b/n/10 Total num-ber
  []
 
 
-Underfull \hbox (badness 6893) in paragraph at lines 1458--1458
+Underfull \hbox (badness 6893) in paragraph at lines 1459--1459
 []|\T1/phv/b/n/10 N. of tombs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1458--1458
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 []|\T1/phv/b/n/10 % of tombs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1458--1458
+Underfull \hbox (badness 10000) in paragraph at lines 1459--1459
 \T1/phv/b/n/10 amulets per
  []
 
@@ -2507,50 +2507,50 @@ l-objs-nuri.png>]
 File: ./images/chapter4//LN-royal-types.png Graphic file (type png)
 <use ./images/chapter4//LN-royal-types.png>
 Package pdftex.def Info: ./images/chapter4//LN-royal-types.png  used on input l
-ine 1469.
+ine 1470.
 (pdftex.def)             Requested size: 483.69687pt x 131.91646pt.
 <./images/chapter4//LN-royal-motifs.png, id=2647, 1656.1875pt x 451.6875pt>
 File: ./images/chapter4//LN-royal-motifs.png Graphic file (type png)
 <use ./images/chapter4//LN-royal-motifs.png>
 Package pdftex.def Info: ./images/chapter4//LN-royal-motifs.png  used on input 
-line 1482.
+line 1483.
 (pdftex.def)             Requested size: 483.69687pt x 131.91646pt.
  [84 <./images/chapter4//LN-royal-types.png>]
 <./images/chapter4//LN-20.324.jpg, id=2659, 1606.0pt x 1606.0pt>
 File: ./images/chapter4//LN-20.324.jpg Graphic file (type jpg)
 <use ./images/chapter4//LN-20.324.jpg>
 Package pdftex.def Info: ./images/chapter4//LN-20.324.jpg  used on input line 1
-495.
+496.
 (pdftex.def)             Requested size: 142.25475pt x 142.25475pt.
 <./images/chapter4//LN-20.325.jpg, id=2660, 1606.0pt x 1606.0pt>
 File: ./images/chapter4//LN-20.325.jpg Graphic file (type jpg)
 <use ./images/chapter4//LN-20.325.jpg>
 Package pdftex.def Info: ./images/chapter4//LN-20.325.jpg  used on input line 1
-500.
+501.
 (pdftex.def)             Requested size: 142.25475pt x 142.25475pt.
 <./images/chapter4//LN-griffin.png, id=2661, 616.3025pt x 608.2725pt>
 File: ./images/chapter4//LN-griffin.png Graphic file (type png)
 <use ./images/chapter4//LN-griffin.png>
 Package pdftex.def Info: ./images/chapter4//LN-griffin.png  used on input line 
-1512.
+1513.
 (pdftex.def)             Requested size: 144.13521pt x 142.25723pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1513--1513
+Underfull \hbox (badness 10000) in paragraph at lines 1514--1514
 []\T1/phv/b/n/10 Figure 4.56: |\T1/phv/m/n/10 Gold amulet
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 1513--1513
+Underfull \hbox (badness 2671) in paragraph at lines 1514--1514
 \T1/phv/m/n/10 de-pict-ing a winged quadru-ple
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1513--1513
+Underfull \hbox (badness 10000) in paragraph at lines 1514--1514
 \T1/phv/m/n/10 an-i-mal, pos-si-bly a grif-fin
  []
 
 
-Underfull \hbox (badness 7486) in paragraph at lines 1513--1513
+Underfull \hbox (badness 7486) in paragraph at lines 1514--1514
 \T1/phv/m/n/10 ([]Dun-ham, []1955[], pl. CXX.A,
  []
 
@@ -2560,7 +2560,7 @@ Underfull \hbox (badness 7486) in paragraph at lines 1513--1513
 File: ./images/chapter4//LN-royal-materials.png Graphic file (type png)
 <use ./images/chapter4//LN-royal-materials.png>
 Package pdftex.def Info: ./images/chapter4//LN-royal-materials.png  used on inp
-ut line 1524.
+ut line 1525.
 (pdftex.def)             Requested size: 483.69687pt x 131.91646pt.
 
 [86 <./images/chapter4//LN-royal-materials.png>]) [87]
@@ -4165,7 +4165,7 @@ pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
 rw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (197 pages, 31943729 bytes).
+Output written on main.pdf (197 pages, 31943918 bytes).
 PDF statistics:
  3904 PDF objects out of 4296 (max. 8388607)
  3236 compressed objects within 33 object streams
