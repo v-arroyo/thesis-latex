@@ -1,7 +1,7 @@
-\contentsline {chapter}{Abstract}{i}{chapter*.1}%
-\contentsline {chapter}{Acknowledgements}{ii}{chapter*.2}%
-\contentsline {chapter}{List of Figures}{x}{chapter*.2}%
-\contentsline {chapter}{List of Tables}{xi}{chapter*.2}%
+\contentsline {chapter}{Abstract}{ii}{chapter*.1}%
+\contentsline {chapter}{Acknowledgements}{iii}{chapter*.2}%
+\contentsline {chapter}{List of Figures}{xi}{chapter*.2}%
+\contentsline {chapter}{List of Tables}{xii}{chapter*.2}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}History of research}{2}{section.1.1}%
 \contentsline {section}{\numberline {1.2}What are amulets?}{4}{section.1.2}%
@@ -16,116 +16,116 @@
 \contentsline {subsection}{\numberline {2.5.1}General considerations}{14}{subsection.2.5.1}%
 \contentsline {subsection}{\numberline {2.5.2}Chronological division}{14}{subsection.2.5.2}%
 \contentsline {subsubsection}{\numberline {2.5.2.1}Categorization of object types}{19}{subsubsection.2.5.2.1}%
-\contentsline {section}{\numberline {2.6}Distinguishing social status}{21}{section.2.6}%
+\contentsline {section}{\numberline {2.6}Distinguishing social status}{22}{section.2.6}%
 \contentsline {chapter}{\numberline {3}Contextualizing the Napatan period: historical background and cultural interactions}{24}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Nubia during the Napatan Period}{24}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Tracing the Napatan Dynasty: chronological and emergence issues}{27}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Cultural interactions between groups within Nubia and Egypt}{30}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Conclusion}{38}{section.3.4}%
-\contentsline {chapter}{\numberline {4}The royal cemeteries: El-Kurru and Nuri}{39}{chapter.4}%
-\contentsline {section}{\numberline {4.1}El-Kurru and Nuri}{39}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Pre-25th Dynasty}{41}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Tomb structure}{41}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Object types}{43}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Amulets}{44}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}25th Dynasty}{45}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Tomb structure}{45}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Object types}{49}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Amulets}{52}{subsection.4.3.3}%
-\contentsline {subsubsection}{\numberline {4.3.3.1}Amulet distribution}{52}{subsubsection.4.3.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.3.2}Amulet types}{52}{subsubsection.4.3.3.2}%
-\contentsline {subsubsection}{\numberline {4.3.3.3}Amulet motifs}{53}{subsubsection.4.3.3.3}%
-\contentsline {subsubsection}{\numberline {4.3.3.4}Amulet materials}{64}{subsubsection.4.3.3.4}%
-\contentsline {section}{\numberline {4.4}Early Napatan}{67}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Tomb structure}{67}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Object types}{70}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}Amulets}{71}{subsection.4.4.3}%
-\contentsline {subsubsection}{\numberline {4.4.3.1}Amulet distribution}{71}{subsubsection.4.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.4.3.2}Amulet types}{72}{subsubsection.4.4.3.2}%
-\contentsline {subsubsection}{\numberline {4.4.3.3}Amulet motifs}{73}{subsubsection.4.4.3.3}%
-\contentsline {subsubsection}{\numberline {4.4.3.4}Materials}{74}{subsubsection.4.4.3.4}%
-\contentsline {section}{\numberline {4.5}Middle Napatan}{75}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Tomb structure}{75}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}Object types}{78}{subsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.5.3}Amulets}{79}{subsection.4.5.3}%
-\contentsline {subsubsection}{\numberline {4.5.3.1}Amulet distribution}{79}{subsubsection.4.5.3.1}%
-\contentsline {subsubsection}{\numberline {4.5.3.2}Amulet types}{79}{subsubsection.4.5.3.2}%
-\contentsline {subsubsection}{\numberline {4.5.3.3}Amulet motifs}{80}{subsubsection.4.5.3.3}%
-\contentsline {subsubsection}{\numberline {4.5.3.4}Amulet materials}{82}{subsubsection.4.5.3.4}%
-\contentsline {section}{\numberline {4.6}Late Napatan}{82}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}Tomb structure}{82}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}Object types}{84}{subsection.4.6.2}%
-\contentsline {subsection}{\numberline {4.6.3}Amulets}{85}{subsection.4.6.3}%
-\contentsline {subsubsection}{\numberline {4.6.3.1}Amulet distribution}{85}{subsubsection.4.6.3.1}%
-\contentsline {subsubsection}{\numberline {4.6.3.2}Amulet types}{85}{subsubsection.4.6.3.2}%
-\contentsline {subsubsection}{\numberline {4.6.3.3}Amulet motifs}{86}{subsubsection.4.6.3.3}%
-\contentsline {subsubsection}{\numberline {4.6.3.4}Amulet materials}{87}{subsubsection.4.6.3.4}%
-\contentsline {section}{\numberline {4.7}Conclusion}{87}{section.4.7}%
-\contentsline {chapter}{\numberline {5}The elite and non-elite cemeteries}{89}{chapter.5}%
-\contentsline {section}{\numberline {5.1}The sites}{89}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Chronological issues and division}{89}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Elite tombs}{91}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Tomb structure}{91}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Object types}{93}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}Amulets}{94}{subsection.5.3.3}%
-\contentsline {subsubsection}{\numberline {5.3.3.1}Amulet distribution}{94}{subsubsection.5.3.3.1}%
-\contentsline {subsubsection}{\numberline {5.3.3.2}Amulet types}{95}{subsubsection.5.3.3.2}%
-\contentsline {subsubsection}{\numberline {5.3.3.3}Amulet motifs}{96}{subsubsection.5.3.3.3}%
-\contentsline {subsubsection}{\numberline {5.3.3.4}Amulet materials}{98}{subsubsection.5.3.3.4}%
-\contentsline {section}{\numberline {5.4}Non-elite tombs}{99}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Pre-25th Dynasty}{99}{subsection.5.4.1}%
-\contentsline {subsubsection}{\numberline {5.4.1.1}Tomb structure}{99}{subsubsection.5.4.1.1}%
-\contentsline {subsubsection}{\numberline {5.4.1.2}Object types}{100}{subsubsection.5.4.1.2}%
-\contentsline {subsubsection}{\numberline {5.4.1.3}Amulets}{100}{subsubsection.5.4.1.3}%
-\contentsline {paragraph}{\numberline {5.4.1.3.1}Amulet distribution}{100}{paragraph.5.4.1.3.1}%
-\contentsline {paragraph}{\numberline {5.4.1.3.2}Amulet types}{101}{paragraph.5.4.1.3.2}%
-\contentsline {paragraph}{\numberline {5.4.1.3.3}Amulet motifs}{101}{paragraph.5.4.1.3.3}%
-\contentsline {paragraph}{\numberline {5.4.1.3.4}Amulet materials}{102}{paragraph.5.4.1.3.4}%
-\contentsline {subsection}{\numberline {5.4.2}25th Dynasty}{103}{subsection.5.4.2}%
-\contentsline {subsubsection}{\numberline {5.4.2.1}Tomb structure}{103}{subsubsection.5.4.2.1}%
-\contentsline {subsubsection}{\numberline {5.4.2.2}Object types}{103}{subsubsection.5.4.2.2}%
-\contentsline {subsubsection}{\numberline {5.4.2.3}Amulets}{104}{subsubsection.5.4.2.3}%
-\contentsline {paragraph}{\numberline {5.4.2.3.1}Amulet distribution}{104}{paragraph.5.4.2.3.1}%
-\contentsline {paragraph}{\numberline {5.4.2.3.2}Amulet types}{105}{paragraph.5.4.2.3.2}%
-\contentsline {paragraph}{\numberline {5.4.2.3.3}Amulet motifs}{106}{paragraph.5.4.2.3.3}%
-\contentsline {paragraph}{\numberline {5.4.2.3.4}Amulets with multiple motifs}{111}{paragraph.5.4.2.3.4}%
-\contentsline {paragraph}{\numberline {5.4.2.3.5}Amulet materials}{113}{paragraph.5.4.2.3.5}%
-\contentsline {subsection}{\numberline {5.4.3}25th Dynasty-Early Napatan}{115}{subsection.5.4.3}%
-\contentsline {subsubsection}{\numberline {5.4.3.1}Tomb structure}{115}{subsubsection.5.4.3.1}%
-\contentsline {subsubsection}{\numberline {5.4.3.2}Object types}{116}{subsubsection.5.4.3.2}%
-\contentsline {subsubsection}{\numberline {5.4.3.3}Amulets}{117}{subsubsection.5.4.3.3}%
-\contentsline {paragraph}{\numberline {5.4.3.3.1}Amulet distribution}{117}{paragraph.5.4.3.3.1}%
-\contentsline {paragraph}{\numberline {5.4.3.3.2}Amulet types}{118}{paragraph.5.4.3.3.2}%
-\contentsline {paragraph}{\numberline {5.4.3.3.3}Amulet motifs}{119}{paragraph.5.4.3.3.3}%
-\contentsline {paragraph}{\numberline {5.4.3.3.4}Amulets with multiple motifs}{126}{paragraph.5.4.3.3.4}%
-\contentsline {paragraph}{\numberline {5.4.3.3.5}Amulet materials}{129}{paragraph.5.4.3.3.5}%
-\contentsline {subsection}{\numberline {5.4.4}25th Dynasty-Middle Napatan}{130}{subsection.5.4.4}%
-\contentsline {subsubsection}{\numberline {5.4.4.1}Tomb structure}{130}{subsubsection.5.4.4.1}%
-\contentsline {subsubsection}{\numberline {5.4.4.2}Object types}{130}{subsubsection.5.4.4.2}%
-\contentsline {subsubsection}{\numberline {5.4.4.3}Amulets}{131}{subsubsection.5.4.4.3}%
-\contentsline {paragraph}{\numberline {5.4.4.3.1}Amulet distribution}{131}{paragraph.5.4.4.3.1}%
-\contentsline {paragraph}{\numberline {5.4.4.3.2}Amulet types}{131}{paragraph.5.4.4.3.2}%
-\contentsline {paragraph}{\numberline {5.4.4.3.3}Amulet motifs}{132}{paragraph.5.4.4.3.3}%
-\contentsline {paragraph}{\numberline {5.4.4.3.4}Amulet materials}{133}{paragraph.5.4.4.3.4}%
-\contentsline {subsection}{\numberline {5.4.5}Early Napatan and Early Napatan-Middle Napatan}{133}{subsection.5.4.5}%
-\contentsline {subsubsection}{\numberline {5.4.5.1}Tomb structure}{134}{subsubsection.5.4.5.1}%
-\contentsline {subsubsection}{\numberline {5.4.5.2}Object types}{134}{subsubsection.5.4.5.2}%
-\contentsline {subsubsection}{\numberline {5.4.5.3}Amulets}{135}{subsubsection.5.4.5.3}%
-\contentsline {paragraph}{\numberline {5.4.5.3.1}Amulet distribution}{135}{paragraph.5.4.5.3.1}%
-\contentsline {paragraph}{\numberline {5.4.5.3.2}Amulet types}{136}{paragraph.5.4.5.3.2}%
-\contentsline {paragraph}{\numberline {5.4.5.3.3}Amulet motifs}{137}{paragraph.5.4.5.3.3}%
-\contentsline {paragraph}{\numberline {5.4.5.3.4}Amulet materials}{138}{paragraph.5.4.5.3.4}%
-\contentsline {section}{\numberline {5.5}Regional variations}{138}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Conclusion}{141}{section.5.6}%
-\contentsline {chapter}{\numberline {6}Amulet practices across different social, temporal and regional contexts}{143}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Chronological variations}{143}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Amulet distribution}{143}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Amulet types}{145}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}Amulet motifs}{146}{subsection.6.1.3}%
-\contentsline {subsection}{\numberline {6.1.4}Amulet materials}{154}{subsection.6.1.4}%
-\contentsline {section}{\numberline {6.2}Regional variations}{157}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Amulet distribution}{157}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Amulet types}{157}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}Amulet motifs}{158}{subsection.6.2.3}%
-\contentsline {subsection}{\numberline {6.2.4}Amulet materials}{164}{subsection.6.2.4}%
-\contentsline {section}{\numberline {6.3}Conclusion}{166}{section.6.3}%
+\contentsline {section}{\numberline {3.2}Tracing the Napatan dynasty: chronological and emergence issues}{27}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Cultural interactions between groups within Nubia and Egypt}{29}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Conclusion}{35}{section.3.4}%
+\contentsline {chapter}{\numberline {4}The royal cemeteries: El-Kurru and Nuri}{37}{chapter.4}%
+\contentsline {section}{\numberline {4.1}El-Kurru and Nuri}{37}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Pre-25th Dynasty}{39}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Tomb structure}{39}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Object types}{41}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Amulets}{42}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}25th Dynasty}{43}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Tomb structure}{43}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Object types}{47}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Amulets}{50}{subsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.3.1}Amulet distribution}{50}{subsubsection.4.3.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.3.2}Amulet types}{50}{subsubsection.4.3.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3.3}Amulet motifs}{51}{subsubsection.4.3.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.3.4}Amulet materials}{62}{subsubsection.4.3.3.4}%
+\contentsline {section}{\numberline {4.4}Early Napatan}{65}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Tomb structure}{65}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Object types}{68}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Amulets}{69}{subsection.4.4.3}%
+\contentsline {subsubsection}{\numberline {4.4.3.1}Amulet distribution}{69}{subsubsection.4.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.4.3.2}Amulet types}{70}{subsubsection.4.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.4.3.3}Amulet motifs}{70}{subsubsection.4.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.4.3.4}Materials}{72}{subsubsection.4.4.3.4}%
+\contentsline {section}{\numberline {4.5}Middle Napatan}{73}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Tomb structure}{73}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Object types}{76}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Amulets}{77}{subsection.4.5.3}%
+\contentsline {subsubsection}{\numberline {4.5.3.1}Amulet distribution}{77}{subsubsection.4.5.3.1}%
+\contentsline {subsubsection}{\numberline {4.5.3.2}Amulet types}{77}{subsubsection.4.5.3.2}%
+\contentsline {subsubsection}{\numberline {4.5.3.3}Amulet motifs}{78}{subsubsection.4.5.3.3}%
+\contentsline {subsubsection}{\numberline {4.5.3.4}Amulet materials}{80}{subsubsection.4.5.3.4}%
+\contentsline {section}{\numberline {4.6}Late Napatan}{81}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Tomb structure}{81}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Object types}{83}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}Amulets}{84}{subsection.4.6.3}%
+\contentsline {subsubsection}{\numberline {4.6.3.1}Amulet distribution}{84}{subsubsection.4.6.3.1}%
+\contentsline {subsubsection}{\numberline {4.6.3.2}Amulet types}{84}{subsubsection.4.6.3.2}%
+\contentsline {subsubsection}{\numberline {4.6.3.3}Amulet motifs}{85}{subsubsection.4.6.3.3}%
+\contentsline {subsubsection}{\numberline {4.6.3.4}Amulet materials}{86}{subsubsection.4.6.3.4}%
+\contentsline {section}{\numberline {4.7}Conclusion}{86}{section.4.7}%
+\contentsline {chapter}{\numberline {5}The elite and non-elite cemeteries}{88}{chapter.5}%
+\contentsline {section}{\numberline {5.1}The sites}{88}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Chronological issues and division}{88}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Elite tombs}{90}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Tomb structure}{90}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Object types}{92}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Amulets}{93}{subsection.5.3.3}%
+\contentsline {subsubsection}{\numberline {5.3.3.1}Amulet distribution}{93}{subsubsection.5.3.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.3.2}Amulet types}{94}{subsubsection.5.3.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3.3}Amulet motifs}{95}{subsubsection.5.3.3.3}%
+\contentsline {subsubsection}{\numberline {5.3.3.4}Amulet materials}{97}{subsubsection.5.3.3.4}%
+\contentsline {section}{\numberline {5.4}Non-elite tombs}{98}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Pre-25th Dynasty}{98}{subsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.1.1}Tomb structure}{98}{subsubsection.5.4.1.1}%
+\contentsline {subsubsection}{\numberline {5.4.1.2}Object types}{99}{subsubsection.5.4.1.2}%
+\contentsline {subsubsection}{\numberline {5.4.1.3}Amulets}{99}{subsubsection.5.4.1.3}%
+\contentsline {paragraph}{\numberline {5.4.1.3.1}Amulet distribution}{99}{paragraph.5.4.1.3.1}%
+\contentsline {paragraph}{\numberline {5.4.1.3.2}Amulet types}{100}{paragraph.5.4.1.3.2}%
+\contentsline {paragraph}{\numberline {5.4.1.3.3}Amulet motifs}{100}{paragraph.5.4.1.3.3}%
+\contentsline {paragraph}{\numberline {5.4.1.3.4}Amulet materials}{101}{paragraph.5.4.1.3.4}%
+\contentsline {subsection}{\numberline {5.4.2}25th Dynasty}{102}{subsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.2.1}Tomb structure}{102}{subsubsection.5.4.2.1}%
+\contentsline {subsubsection}{\numberline {5.4.2.2}Object types}{102}{subsubsection.5.4.2.2}%
+\contentsline {subsubsection}{\numberline {5.4.2.3}Amulets}{103}{subsubsection.5.4.2.3}%
+\contentsline {paragraph}{\numberline {5.4.2.3.1}Amulet distribution}{103}{paragraph.5.4.2.3.1}%
+\contentsline {paragraph}{\numberline {5.4.2.3.2}Amulet types}{104}{paragraph.5.4.2.3.2}%
+\contentsline {paragraph}{\numberline {5.4.2.3.3}Amulet motifs}{105}{paragraph.5.4.2.3.3}%
+\contentsline {paragraph}{\numberline {5.4.2.3.4}Amulets with multiple motifs}{110}{paragraph.5.4.2.3.4}%
+\contentsline {paragraph}{\numberline {5.4.2.3.5}Amulet materials}{112}{paragraph.5.4.2.3.5}%
+\contentsline {subsection}{\numberline {5.4.3}25th Dynasty-Early Napatan}{114}{subsection.5.4.3}%
+\contentsline {subsubsection}{\numberline {5.4.3.1}Tomb structure}{114}{subsubsection.5.4.3.1}%
+\contentsline {subsubsection}{\numberline {5.4.3.2}Object types}{115}{subsubsection.5.4.3.2}%
+\contentsline {subsubsection}{\numberline {5.4.3.3}Amulets}{116}{subsubsection.5.4.3.3}%
+\contentsline {paragraph}{\numberline {5.4.3.3.1}Amulet distribution}{116}{paragraph.5.4.3.3.1}%
+\contentsline {paragraph}{\numberline {5.4.3.3.2}Amulet types}{117}{paragraph.5.4.3.3.2}%
+\contentsline {paragraph}{\numberline {5.4.3.3.3}Amulet motifs}{118}{paragraph.5.4.3.3.3}%
+\contentsline {paragraph}{\numberline {5.4.3.3.4}Amulets with multiple motifs}{125}{paragraph.5.4.3.3.4}%
+\contentsline {paragraph}{\numberline {5.4.3.3.5}Amulet materials}{128}{paragraph.5.4.3.3.5}%
+\contentsline {subsection}{\numberline {5.4.4}25th Dynasty-Middle Napatan}{129}{subsection.5.4.4}%
+\contentsline {subsubsection}{\numberline {5.4.4.1}Tomb structure}{129}{subsubsection.5.4.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.4.2}Object types}{129}{subsubsection.5.4.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.4.3}Amulets}{130}{subsubsection.5.4.4.3}%
+\contentsline {paragraph}{\numberline {5.4.4.3.1}Amulet distribution}{130}{paragraph.5.4.4.3.1}%
+\contentsline {paragraph}{\numberline {5.4.4.3.2}Amulet types}{130}{paragraph.5.4.4.3.2}%
+\contentsline {paragraph}{\numberline {5.4.4.3.3}Amulet motifs}{131}{paragraph.5.4.4.3.3}%
+\contentsline {paragraph}{\numberline {5.4.4.3.4}Amulet materials}{132}{paragraph.5.4.4.3.4}%
+\contentsline {subsection}{\numberline {5.4.5}Early Napatan and Early Napatan-Middle Napatan}{132}{subsection.5.4.5}%
+\contentsline {subsubsection}{\numberline {5.4.5.1}Tomb structure}{133}{subsubsection.5.4.5.1}%
+\contentsline {subsubsection}{\numberline {5.4.5.2}Object types}{133}{subsubsection.5.4.5.2}%
+\contentsline {subsubsection}{\numberline {5.4.5.3}Amulets}{134}{subsubsection.5.4.5.3}%
+\contentsline {paragraph}{\numberline {5.4.5.3.1}Amulet distribution}{134}{paragraph.5.4.5.3.1}%
+\contentsline {paragraph}{\numberline {5.4.5.3.2}Amulet types}{135}{paragraph.5.4.5.3.2}%
+\contentsline {paragraph}{\numberline {5.4.5.3.3}Amulet motifs}{136}{paragraph.5.4.5.3.3}%
+\contentsline {paragraph}{\numberline {5.4.5.3.4}Amulet materials}{137}{paragraph.5.4.5.3.4}%
+\contentsline {section}{\numberline {5.5}Regional variations}{137}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Conclusion}{140}{section.5.6}%
+\contentsline {chapter}{\numberline {6}Amulet practices across different social, temporal and regional contexts}{142}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Chronological variations}{142}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Amulet distribution}{142}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Amulet types}{144}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Amulet motifs}{145}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Amulet materials}{153}{subsection.6.1.4}%
+\contentsline {section}{\numberline {6.2}Regional variations}{156}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Amulet distribution}{156}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Amulet types}{156}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Amulet motifs}{157}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Amulet materials}{163}{subsection.6.2.4}%
+\contentsline {section}{\numberline {6.3}Conclusion}{165}{section.6.3}%
