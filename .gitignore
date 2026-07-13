@@ -2,6 +2,12 @@
 *.aux
 *.log
 *.toc
+*.pdf
+*.blg
+*.bcf
+*.run.xml
+*.lof
+*.lot
 
 # PDF output
 *.pdf
