@@ -1,0 +1,7 @@
+# temporary files
+*.aux
+*.log
+*.toc
+
+# PDF output
+*.pdf
